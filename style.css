@@ -1,0 +1,92 @@
+body{
+    background-color:rgb(245, 218, 231) ;
+}
+.container{
+    border: 0px solid;
+    text-align: center;
+    width: 40%;
+    margin-left: 400px;
+    align-items: center;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: white;
+}
+.container img{
+    border-radius: 10px;
+}
+.preparation{
+    border: 0px solid ;
+    border-radius: 10px;
+    background-color: rgb(245, 218, 231);
+}
+.preparation li{
+    margin-left: 70px;
+}
+header{
+    text-align: left;
+    margin-left: 40px;
+    text-size-adjust: 40%;
+    font-size: x-large;
+}
+.container p {
+    font-size: small;
+    
+}
+h1{
+    font-size: small;
+    text-align: left;
+    margin-left: 60px;
+    color: rgb(128, 0, 75) ;
+}
+li{
+    text-align: left;
+    margin-left: 60px;
+    font-size: small;
+    padding: 5px;
+}
+ol li{
+    margin-left: 30px;
+    padding: 5px;
+}
+ol li::marker{
+    color: rgb(116, 72, 16);
+}
+h2{
+    font-size: large;
+    text-align: left;
+    margin-left:40px ;
+    color: rgb(99, 61, 12);
+}
+h3{
+    font-size: large;
+    text-align: left;
+    margin-left: 40px;
+    color: rgb(99, 61, 12);
+}
+h4{
+   text-align: left;
+   margin-left: 40px;
+   font-size: large;
+   color: rgb(99, 61, 12);
+}
+table {
+    width: 80%;
+    border-collapse: collapse;
+    margin-left: 8px;
+    font-size: small;
+  }
+  
+  td {
+    padding: 9px;
+    border: 1px solid #ddd;
+  }
+  
+  td:first-child {
+    font-weight: lighter;
+  }
+  td:nth-last-child(1){
+    color: brown;
+  }
+  
+
+
